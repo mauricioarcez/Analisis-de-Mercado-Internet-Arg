@@ -1,6 +1,3 @@
 # Ignorar el entorno virtual
 aaEntorno/
 
-# Ignorar la carpeta de datos crudos
-data/crudo
-
