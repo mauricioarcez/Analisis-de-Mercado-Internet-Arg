@@ -11,7 +11,7 @@ Este repositorio contiene un análisis exhaustivo sobre el mercado de Conectivid
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Datos y Fuentes](#datos-y-fuentes)
 - [Metodología](#metodología)
-- [Reporte](#resultados-y-links-al-proyecto)
+- [Reporte y KPIs](#reporte-y-kpis)
 - [Autor y Licencia](#autor-y-licencia)
 
 
@@ -59,10 +59,32 @@ La estructura del proyecto es la siguiente:
 4. Exportar los archivos a la carpeta **data**
 
 ### En la carpeta EDA.
-1. 
+1. Análisis del Crecimiento Total de Conectividades por Año.
+2. Análisis de Crecimiento de Conexiones por provincias. (2014-2024).
+3. Distribución Tecnológica en la actualidad.
+4. Análisis de Tecnologías por provincias destacadas.
+5. Evolución de Tecnologías.
+6. Accesos Dial up.
+7. accesos por provincias.
+8. Accesos por Hogares.
+9. Ingresos antes y despues de inflación.
 
-## Reporte
-blablablabla
+## Reporte y KPIs
+
+El reporte  incluye la evolución de las tecnologías utilizadas, las velocidades de conexión, y la cobertura regional  desde 2014 hasta 2024. El dashboard interactivo en formato PBIX proporciona una vista detallada y visualmente atractiva de estos aspectos, permitiendo al usuario navegar fácilmente por las métricas más importantes, proporcionando una base sólida para la toma de decisiones estratégicas.
+
+### KPIs Elegidos
+
+Los KPIs seleccionados para este análisis son fundamentales para medir el progreso en áreas clave del mercado de internet en Argentina:
+
+1. **Reducción de accesos dial-up en Buenos Aires**  
+   - Este KPI monitorea la disminución del uso de conexiones de dial-up, una tecnología obsoleta que sigue siendo utilizada ampliamente por Buenos Aires. El objetivo es migrar a los usuarios hacia tecnologías más modernas como banda ancha.
+
+2. **Aumento de la velocidad promedio en el sur de Argentina**  
+   - Este indicador mide el crecimiento de las velocidades de internet en las provincias del sur, una región históricamente rezagada en términos de velocidad. El KPI permite rastrear mejoras en la velocidad y comparar objetivos.
+
+3. **Mejora de la conectividad en el norte del país**  
+   - Este KPI evalúa el crecimiento en la cantidad de accesos a internet en las provincias del norte de Argentina, una región con menor penetración de internet historicamente. El objetivo es aumentar la cobertura y reducir la brecha digital en comparación con otras regiones del país.
 
 ## Autor y Licencia
 Este Análisis fue desarrollado por **Mauricio Arce**. Si tienes preguntas o deseas conectar, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/mauricioarcez/).
