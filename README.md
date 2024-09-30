@@ -11,10 +11,8 @@ Este repositorio contiene un análisis exhaustivo sobre el mercado de Conectivid
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Datos y Fuentes](#datos-y-fuentes)
 - [Metodología](#metodología)
-- [Resultados y Links al proyecto](#resultados-y-links-al-proyecto)
-- [Autor](#autor)
-- [Contribución y Colaboración](#contribución-y-colaboración)
-- [Licencia](#licencia)
+- [Reporte](#resultados-y-links-al-proyecto)
+- [Autor y Licencia](#autor-y-licencia)
 
 
 ### Instalación y requisitos
@@ -54,3 +52,20 @@ La estructura del proyecto es la siguiente:
 
 ## Metodología
 
+### En la carpeta ETL.
+1. Separacion del Excel en Paginas.
+2. Conversión del tipo de dato y corrección de errores
+3. Combinación de datos de Inflación e Ingresos en una sola tabla.
+4. Exportar los archivos a la carpeta **data**
+
+### En la carpeta EDA.
+1. 
+
+## Reporte
+blablablabla
+
+## Autor y Licencia
+Este Análisis fue desarrollado por **Mauricio Arce**. Si tienes preguntas o deseas conectar, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/mauricioarcez/).
+
+### Licencia
+Este proyecto está licenciado bajo la [Licencia MIT](./LICENSE). Si deseas más detalles sobre lo que implica esta licencia, puedes revisar el archivo de la licencia en este repositorio.
