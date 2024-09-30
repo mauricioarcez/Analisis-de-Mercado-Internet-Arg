@@ -76,7 +76,8 @@ El reporte  incluye la evolución de las tecnologías utilizadas, las velocidade
 ### KPIs Elegidos
 
 Los KPIs seleccionados para este análisis son fundamentales para medir el progreso en áreas clave del mercado de internet en Argentina:
-![Objetivos y KPIs](https://drive.google.com/file/d/1_WXtj6RhbyJrNDFlkgm7IGjSYN4MupuJ/view?usp=sharing)
+
+![ObjetivosyKPIs](https://drive.google.com/file/d/1_WXtj6RhbyJrNDFlkgm7IGjSYN4MupuJ/view?usp=sharing)
 
 1. **Reducción de accesos dial-up en Buenos Aires**  
    - Este KPI monitorea la disminución del uso de conexiones de dial-up, una tecnología obsoleta que sigue siendo utilizada ampliamente por Buenos Aires. El objetivo es migrar a los usuarios hacia tecnologías más modernas como banda ancha.
