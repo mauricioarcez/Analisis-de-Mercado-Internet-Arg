@@ -77,7 +77,7 @@ El reporte  incluye la evolución de las tecnologías utilizadas, las velocidade
 
 ### KPI Visualización
 
-![ObjetivosyKPIs](https://drive.google.com/file/d/1_WXtj6RhbyJrNDFlkgm7IGjSYN4MupuJ/view?usp=sharing)
+![ObjetivosyKPIs](https://imgur.com/a/Fk5sSwC)
 
 ### KPIs Elegidos
 
