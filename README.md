@@ -77,7 +77,7 @@ El reporte  incluye la evolución de las tecnologías utilizadas, las velocidade
 
 ### KPI Visualización
 
-![imagen](https://github.com/mauricioarcez/Analisis-de-Mercado-Internet-Arg/issues/1#issue-2557809220)
+![imagen](https://github.com/user-attachments/assets/14125ee2-8abf-4c1d-bed0-ab29ef576451)
 
 ### KPIs Elegidos
 
