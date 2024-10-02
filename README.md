@@ -84,17 +84,17 @@ El reporte  incluye la evolución de las tecnologías utilizadas, las velocidade
 Los KPIs seleccionados para este análisis son los de mayor oportunidad de una expansion exitosa, Seleccionando objetivos no explotados:
 
 1. **Reducción de accesos dial-up en Buenos Aires**  
-   - Este KPI monitorea la disminución del uso de conexiones de dial-up, una tecnología obsoleta que sigue siendo utilizada ampliamente por Buenos Aires. El objetivo es migrar a los usuarios hacia tecnologías más modernas como banda ancha. Puede lograrse de diversas formas:
-         - Incentivos: Subvenciones o descuentos para usuarios que todavía usan dial-up y deseen cambiar a una nueva tecnologia.
-         - Publicidad de nicho: Iniciar campañas de marketing dirigidas específicamente a los clientes que aún utilizan dial-up, resaltando las ventajas de las tecnologías más modernas
+    - Este KPI monitorea la disminución del uso de conexiones de dial-up, una tecnología obsoleta que sigue siendo utilizada ampliamente por Buenos Aires. El objetivo es migrar a los usuarios hacia tecnologías más modernas como banda ancha. Puede lograrse de diversas formas:
+        - Incentivos: Subvenciones o descuentos para usuarios que todavía usan dial-up y deseen cambiar a una nueva tecnologia.
+        - Publicidad de nicho: Iniciar campañas de marketing dirigidas específicamente a los clientes que aún utilizan dial-up, resaltando las ventajas de las tecnologías más modernas
 
 2. **Aumento de la velocidad promedio en el sur de Argentina**  
-   - Este indicador mide el crecimiento de las velocidades de internet en las provincias del sur, una región históricamente rezagada en términos de velocidad. El KPI permite rastrear mejoras en la velocidad y comparar objetivos.
-         - Infrestructura: Evaluar las necesidades de infraestructura en las provincias del sur y desarrollar acuerdos con proveedores locales o nacionales para mejorar la capacidad de red. Se pueden lanzar nuevas ofertas comerciales enfocadas en aumentar las velocidades a través de la actualización de equipos o la expansión de la cobertura
+    - Este indicador mide el crecimiento de las velocidades de internet en las provincias del sur, una región históricamente rezagada en términos de velocidad. El KPI permite rastrear mejoras en la velocidad y comparar objetivos.
+        - Infrestructura: Evaluar las necesidades de infraestructura en las provincias del sur y desarrollar acuerdos con proveedores locales o nacionales para mejorar la capacidad de red. Se pueden lanzar nuevas ofertas comerciales enfocadas en aumentar las velocidades a través de la actualización de equipos o la expansión de la cobertura
 
 3. **Mejora de la conectividad en el norte del país**  
-   - Este KPI evalúa el crecimiento en la cantidad de accesos a internet en las provincias del norte de Argentina, una región con menor penetración de internet historicamente. El objetivo es aumentar la cobertura y reducir la brecha digital en comparación con otras regiones del país.
-         - Inversion de expansion: Desarrollar iniciativas de conectividad que incluyan promociones para nuevos clientes en zonas rurales o acuerdos con organizaciones locales. Invertir en la expansión de infraestructura en regiones estratégicas con baja penetración de internet, buscando apoyo gubernamental o financiamiento externo si es necesario.
+    - Este KPI evalúa el crecimiento en la cantidad de accesos a internet en las provincias del norte de Argentina, una región con menor penetración de internet historicamente. El objetivo es aumentar la cobertura y reducir la brecha digital en comparación con otras regiones del país.
+        - Inversion de expansion: Desarrollar iniciativas de conectividad que incluyan promociones para nuevos clientes en zonas rurales o acuerdos con organizaciones locales. Invertir en la expansión de infraestructura en regiones estratégicas con baja penetración de internet, buscando apoyo gubernamental o financiamiento externo si es necesario.
 
 ## Autor y Licencia
 Este Análisis fue desarrollado por **Mauricio Arce**. Si tienes preguntas o deseas conectar, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/mauricioarcez/).
